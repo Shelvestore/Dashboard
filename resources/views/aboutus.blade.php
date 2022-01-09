@@ -1,0 +1,1 @@
+@include(isset(getSetting()['about_us']) ? 'includes.aboutus.aboutus-'.getSetting()['about_us'] : 'includes.aboutus.aboutus-style1')

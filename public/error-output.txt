@@ -1,0 +1,125 @@
+'php' is not recognized as an internal or external command,
+operable program or batch file.
+'php' is not recognized as an internal or external command,
+operable program or batch file.
+'php' is not recognized as an internal or external command,
+operable program or batch file.
+'php' is not recognized as an internal or external command,
+operable program or batch file.
+'php' is not recognized as an internal or external command,
+operable program or batch file.
+'php' is not recognized as an internal or external command,
+operable program or batch file.
+'php' is not recognized as an internal or external command,
+operable program or batch file.
+'php' is not recognized as an internal or external command,
+operable program or batch file.
+'php' is not recognized as an internal or external command,
+operable program or batch file.
+'php' is not recognized as an internal or external command,
+operable program or batch file.
+'php' is not recognized as an internal or external command,
+operable program or batch file.
+'php' is not recognized as an internal or external command,
+operable program or batch file.
+'php' is not recognized as an internal or external command,
+operable program or batch file.
+'php' is not recognized as an internal or external command,
+operable program or batch file.
+'php' is not recognized as an internal or external command,
+operable program or batch file.
+'php' is not recognized as an internal or external command,
+operable program or batch file.
+'php' is not recognized as an internal or external command,
+operable program or batch file.
+'php' is not recognized as an internal or external command,
+operable program or batch file.
+'php' is not recognized as an internal or external command,
+operable program or batch file.
+'php' is not recognized as an internal or external command,
+operable program or batch file.
+'php' is not recognized as an internal or external command,
+operable program or batch file.
+'php' is not recognized as an internal or external command,
+operable program or batch file.
+'php' is not recognized as an internal or external command,
+operable program or batch file.
+'php' is not recognized as an internal or external command,
+operable program or batch file.
+'php' is not recognized as an internal or external command,
+operable program or batch file.
+'php' is not recognized as an internal or external command,
+operable program or batch file.
+'php' is not recognized as an internal or external command,
+operable program or batch file.
+'php' is not recognized as an internal or external command,
+operable program or batch file.
+'php' is not recognized as an internal or external command,
+operable program or batch file.
+'php' is not recognized as an internal or external command,
+operable program or batch file.
+'php' is not recognized as an internal or external command,
+operable program or batch file.
+'php' is not recognized as an internal or external command,
+operable program or batch file.
+'php' is not recognized as an internal or external command,
+operable program or batch file.
+'php' is not recognized as an internal or external command,
+operable program or batch file.
+'php' is not recognized as an internal or external command,
+operable program or batch file.
+'php' is not recognized as an internal or external command,
+operable program or batch file.
+'php' is not recognized as an internal or external command,
+operable program or batch file.
+'php' is not recognized as an internal or external command,
+operable program or batch file.
+'php' is not recognized as an internal or external command,
+operable program or batch file.
+'php' is not recognized as an internal or external command,
+operable program or batch file.
+'php' is not recognized as an internal or external command,
+operable program or batch file.
+'php' is not recognized as an internal or external command,
+operable program or batch file.
+'php' is not recognized as an internal or external command,
+operable program or batch file.
+'php' is not recognized as an internal or external command,
+operable program or batch file.
+'php' is not recognized as an internal or external command,
+operable program or batch file.
+'php' is not recognized as an internal or external command,
+operable program or batch file.
+'php' is not recognized as an internal or external command,
+operable program or batch file.
+'php' is not recognized as an internal or external command,
+operable program or batch file.
+'php' is not recognized as an internal or external command,
+operable program or batch file.
+'php' is not recognized as an internal or external command,
+operable program or batch file.
+PHP Warning:  Module 'curl' already loaded in Unknown on line 0
+PHP Warning:  Module 'curl' already loaded in Unknown on line 0
+PHP Warning:  Module 'curl' already loaded in Unknown on line 0
+PHP Warning:  Module 'curl' already loaded in Unknown on line 0
+PHP Warning:  Module 'curl' already loaded in Unknown on line 0
+PHP Warning:  Module 'curl' already loaded in Unknown on line 0
+PHP Warning:  Module 'curl' already loaded in Unknown on line 0
+PHP Warning:  Module 'curl' already loaded in Unknown on line 0
+PHP Warning:  Module 'curl' already loaded in Unknown on line 0
+PHP Warning:  Module 'curl' already loaded in Unknown on line 0
+PHP Warning:  Module 'curl' already loaded in Unknown on line 0
+PHP Warning:  Module 'curl' already loaded in Unknown on line 0
+PHP Warning:  Module 'curl' already loaded in Unknown on line 0
+PHP Warning:  Module 'curl' already loaded in Unknown on line 0
+PHP Warning:  Module 'curl' already loaded in Unknown on line 0
+PHP Warning:  Module 'curl' already loaded in Unknown on line 0
+PHP Warning:  Module 'curl' already loaded in Unknown on line 0
+PHP Warning:  Module 'curl' already loaded in Unknown on line 0
+PHP Warning:  Module 'curl' already loaded in Unknown on line 0
+PHP Warning:  Module 'curl' already loaded in Unknown on line 0
+PHP Warning:  Module 'curl' already loaded in Unknown on line 0
+PHP Warning:  Module 'curl' already loaded in Unknown on line 0
+PHP Warning:  Module 'curl' already loaded in Unknown on line 0
+PHP Warning:  Module 'curl' already loaded in Unknown on line 0
+PHP Warning:  Module 'curl' already loaded in Unknown on line 0
